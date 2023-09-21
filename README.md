@@ -1,3 +1,3 @@
 # ExceptionsLogging
 
-Projeto que implementa um tratador de Exceptions em conjunto com estratégias de Log.
+Projeto que implementa um manipulador de Exceptions em conjunto com estratégias de Log.
